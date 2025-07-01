@@ -1,6 +1,6 @@
 [submodule "cuttlefish"]
 	path = cuttlefish
-	url = https://github.com/COMBINE-lab/cuttlefish.git
+	url = https://github.com/ggraham/cuttlefish.git
 	branch = develop
 [submodule "piscem-cpp"]
 	path = piscem-cpp
